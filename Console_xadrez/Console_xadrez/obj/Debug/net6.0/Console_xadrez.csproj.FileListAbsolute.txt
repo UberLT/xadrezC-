@@ -1,0 +1,14 @@
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\bin\Debug\net6.0\Console_xadrez.exe
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\bin\Debug\net6.0\Console_xadrez.deps.json
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\bin\Debug\net6.0\Console_xadrez.runtimeconfig.json
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\bin\Debug\net6.0\Console_xadrez.dll
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\bin\Debug\net6.0\Console_xadrez.pdb
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\obj\Debug\net6.0\Console_xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\obj\Debug\net6.0\Console_xadrez.AssemblyInfoInputs.cache
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\obj\Debug\net6.0\Console_xadrez.AssemblyInfo.cs
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\obj\Debug\net6.0\Console_xadrez.csproj.CoreCompileInputs.cache
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\obj\Debug\net6.0\Console_xadrez.dll
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\obj\Debug\net6.0\refint\Console_xadrez.dll
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\obj\Debug\net6.0\Console_xadrez.pdb
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\obj\Debug\net6.0\Console_xadrez.genruntimeconfig.cache
+C:\Users\uberl\source\repos\Console_xadrez\xadrezC-\Console_xadrez\Console_xadrez\obj\Debug\net6.0\ref\Console_xadrez.dll
