@@ -18,7 +18,6 @@ namespace tabuleiro
         }
         public override string ToString()
         {
-            return base.ToString();
             return linha 
                 + ", " 
                 + coluna;
