@@ -1,13 +1,9 @@
 ﻿using tabuleiro;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace tabuleiro
 {
-    internal class Peca
+    abstract class Peca
     {
 
         public  Posicao posicao { get; set; }
@@ -27,5 +23,10 @@ namespace tabuleiro
         {
             qteMovimentos++;
         }
+
+        public abstract void bool[,] mivimentosPossiveis();
+
+
+
     }
 }
